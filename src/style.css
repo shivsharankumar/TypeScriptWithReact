@@ -1,0 +1,36 @@
+.note {
+  border: 1px solid grey;
+  padding: 2rem;
+  font-size: 2rem;
+  color: #333;
+  height: 5rem;
+  border-radius: 0.5rem;
+  background-color: bisque;
+  margin-top: 1rem;
+}
+.App {
+  margin: 0 1rem;
+  text-align: center;
+}
+.high {
+  background-color: coral;
+}
+
+.medium {
+  background-color: beige;
+}
+.low {
+  background-color: greenyellow;
+}
+.add-note input {
+  line-height: 2rem;
+  width: 60%;
+}
+.add-note button {
+  line-height: 2rem;
+  width: 15%;
+}
+.add-note select {
+  height: 2.3rem;
+  width: 20%;
+}
